@@ -3,8 +3,7 @@
 
 int main()
 {
-    //std::cout << "test" << std::endl;
-    test();
+    hello::test();
 
     return 0;
 }
