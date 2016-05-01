@@ -28,7 +28,7 @@ int testLua(lua_State* L)
     test();
     luaCallback(L);
 
-    //lua_pushliteral(L, "sukatest1");
+    //lua_pushliteral(L, "test");
     //lua_pushnumber(L, 123);
     //return 2;
     return 0;
